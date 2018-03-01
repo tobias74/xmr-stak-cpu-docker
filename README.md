@@ -1,5 +1,5 @@
 # xmr-stak-cpu-docker
-Dockerfile for xmr-stak-cpu miner
+Dockerfile for [https://github.com/fireice-uk/xmr-stak](https://github.com/fireice-uk/xmr-stak) miner
 
 Just run the image and it will interactivly build the config.txt
 
